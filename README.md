@@ -74,3 +74,25 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 ### Diğer Kullanıcılar Tarafından, Login İşlemi Yapmış Olan Kullanıcıya Gönderilen Mesajları Burada Görüntüleyebilir. Mesaj Detayları İle Mesajın Detayını Görüntüleyebilir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/62988546244cec9ff604f78c73ddc373809a446e/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20163830.png)
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/62988546244cec9ff604f78c73ddc373809a446e/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20163931.png)
+## 📌Gönderilen Mesaj Paneli 
+### Login İşlemi Yapmış Olan Kullanıcının Diğer Kullanıcılara Gönderdiği Mesajları Burada Görüntüleyebilir. Mesaj Detayları İle Mesajın Detayını Görüntüleyebilir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/9559d2e3c2493cbea8955cb53e8aa4eb8c4c6a6f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20163839.png)
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/9559d2e3c2493cbea8955cb53e8aa4eb8c4c6a6f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20163925.png)
+## 📌Yeni Mesaj Paneli
+### Kullanıcı Diğer Kullanıcılara Mesaj Gönderme İşlemini Burada Gerçekleştirir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/9559d2e3c2493cbea8955cb53e8aa4eb8c4c6a6f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20163901.png)
+## 📌Duyurular Paneli
+### Yayınlanmış Olan Duyuruları Görüntüleyebilir Ve "Detaylar" Butonu İle Duyuru Detaylarını Görüntüleyebilir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/9559d2e3c2493cbea8955cb53e8aa4eb8c4c6a6f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20163910.png)
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/9559d2e3c2493cbea8955cb53e8aa4eb8c4c6a6f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20163918.png)
+
+
+# 👨🏻‍💻 Admin Paneli
+
+## 📌 Dashboard Paneli
+### Admin Burada "Bütçe Geçmişi, Yetenek Sayısı,Okunmamış Mesaj Sayısı,Proje Sayısı, Eklenen 5 Adet Proje (Proje Durumları Ve Tarihleri İle Birlikte),Eklenen Projeleri,Var İse Mesajları,Proje Görsellerinin Olduğu Bir Slider'ı,ToDoList İle Eklenen Bilgileri,Ziyaret Edilen Ülkeleri Ve Ufak Bir Dünya Haritasını Görüntüleyebilir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/9559d2e3c2493cbea8955cb53e8aa4eb8c4c6a6f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164248.png)
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/9559d2e3c2493cbea8955cb53e8aa4eb8c4c6a6f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164300.png)
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/9559d2e3c2493cbea8955cb53e8aa4eb8c4c6a6f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164309.png)
+### Üst Tarafta Bulunan "Çan" İkonuna Tıklayarak  Bildirimleri Görüntüleyebilir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/9559d2e3c2493cbea8955cb53e8aa4eb8c4c6a6f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164320.png)
