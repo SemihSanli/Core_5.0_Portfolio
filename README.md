@@ -46,3 +46,21 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 ## 📌 Projelerim Bölümü
 ### 📍 Portfolios Tablosundaki Girilmiş Olan Ve Linkleri Verilmiş Projelerim İle Ufak Görselleri Gözükmektedir.
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/c744544ebfe5377ffff5adcdbddb85db8455112e/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20165614.png)
+## 📌 Deneyimlerim Bölümü 
+### 📍Experiences Tablosundaki Girilmiş Olan Deneyim Bilgilerim Gözükmektedir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/7e54f3f509d9be05463b32762b37c7481dbb3e91/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20165619.png)
+## 📌 Referanslarım Bölümü
+### 📍 Testimonials Tablosundaki Girilmiş Olan Referans Bilgilerim Gözükmektedir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/7e54f3f509d9be05463b32762b37c7481dbb3e91/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20165623.png)
+## 📌 Benimle İletişime Geç Bölümü
+### 📍 Kullanıcıların Tarafıma Ulaşmak İçin Görüntülediği Bilgilere Ve Mesaj Gönderebilecekleri Bir Alana Sahiplik Yapar
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/7e54f3f509d9be05463b32762b37c7481dbb3e91/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20165629.png)
+
+# 🙍‍♂️ Kullanıcı Paneli
+
+## 📌 Login Paneli
+### Kullanıcının Giriş Yapması İçin Yönlendirildiği Paneldir. Eğer Giriş Yapmadan Diğer Panellere Erişmeye Çalışırsa Sürekli Login Paneline Yönlendirilecektir. Eğer Daha Önceden Oluşturmuş Olduğu Bir Hesabı Yok İse "Kayıt Ol" Bölümünden Kayıt Ol Sayfasına Yönlendirilebilir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/7e54f3f509d9be05463b32762b37c7481dbb3e91/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20163413.png)
+## 📌 Register Paneli 
+### 
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/7e54f3f509d9be05463b32762b37c7481dbb3e91/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20163652.png)
