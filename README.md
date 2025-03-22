@@ -96,3 +96,19 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/9559d2e3c2493cbea8955cb53e8aa4eb8c4c6a6f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164309.png)
 ### Üst Tarafta Bulunan "Çan" İkonuna Tıklayarak  Bildirimleri Görüntüleyebilir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/9559d2e3c2493cbea8955cb53e8aa4eb8c4c6a6f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164320.png)
+### Üst Tarafta Bulunan "Mesaj" İkonuna Tıklayarak  Tarafına Gönderilmiş Mesajları Görüntüleyebilir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164326.png)
+
+## 📌 Yeteneklerim Paneli
+### Admin Anasayfada Bulunan "Yeteneklerim" Sayfasındaki Verileri Görüntüleyebilir. Dilerse Bu Bilgileri Siler Ve Günceller
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164400.png)
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164412.png)
+### Yeni Bir Yetenek Eklemek İsterse, Yeni Yetenek Ekle Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164419.png)
+
+### Admin Anasayfada Bulunan "Yeteneklerim" Sayfasındaki Verileri Görüntüleyebilir. Dilerse Bu Bilgileri Siler Ve Günceller
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164400.png)
+### Güncelleme Bölümüne Eklenen Verinin ID'sine Göre "Başlık" Ve "Değer" Bilgileri Otomatik Olarak Gelir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164412.png)
+### Yeni Bir Yetenek Eklemek İsterse, Yeni Yetenek Ekle Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164419.png)
