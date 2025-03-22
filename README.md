@@ -28,3 +28,21 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 ## 🔗 Admin Paneli : Admin Rolüne Sahip Olan Kullanıcının; "Hakkımda","Yeteneklerim","Deneyimlerim" Ve "Hizmetlerim" İçin CRUD İşlemleri Yapabilmesini Amaçlayan Sayfadır.
 ## 🔗 Kullanıcı Paneli : Kullanıcı Rolüne Sahip Olan Kullanıcıların Hesaplarını Düzenleyip Diğer Kullanıcılar İle Mesajlaşmasını Amaçlayan Sayfadır.
 ## 🔗 Ana Sayfa : Burada Bana Ait Bilgilerin Yer Aldığı, Herhangi Bir Kullanıcının Herhangi Bir Login İşlemi Yapmadan Bana Ait Bilgileri Görmesini Amaçlayan Bir Sayfadır.
+
+# 🧬Gelelim Tüm Bölümleri Tek Tek İncelemeye
+
+## 📌 AnaSayfanın İlk Bölümü Olan Öne Çıkanlar Sayfası
+### 📍 Features Tablosundaki Girilmiş Olan Adım Soyadım,Pozisyonum Ve Sosyal Medya Hesaplarım  Gözükmektedir
+![Image Alt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/c744544ebfe5377ffff5adcdbddb85db8455112e/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20165020.png)
+## 📌 Hakkımda Bölümü
+### 📍 Abouts Tablosundaki Girilmiş Olan  Hakkımda Detayı,Mailim,Telefonum Ve Adresim Gözükmektedir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/c744544ebfe5377ffff5adcdbddb85db8455112e/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20165029.png)
+## 📌 Hizmetlerim Bölümü
+### 📍 Services Tablosundaki Girilmiş Olan Verebileceğim Hizmetler Gözükmektedir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/c744544ebfe5377ffff5adcdbddb85db8455112e/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20165551.png)
+## 📌 Yeteneklerim Bölümü
+### 📍 Skills Tablosundaki Girilmiş Olan Yeteneklerim Ve Bu Yeteneklerin Dereceleri Gözükmektedir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/c744544ebfe5377ffff5adcdbddb85db8455112e/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20165601.png)
+## 📌 Projelerim Bölümü
+### 📍 Portfolios Tablosundaki Girilmiş Olan Ve Linkleri Verilmiş Projelerim İle Ufak Görselleri Gözükmektedir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/c744544ebfe5377ffff5adcdbddb85db8455112e/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20165614.png)
