@@ -19,4 +19,12 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 ## 🔖 Belirli Kurallar İçerisinde CRUD İşlemi Yapmak İçin :  Fluent Validation.
 ## 🔖 Authentication (Kimlik Doğrulama) Ve Authorization (Yetkilendirme) İçin:  ASP.Net Core Identity.
 ## 🔖 Veritabanı işlemlerini Daha Hızlı,Güvenli Ve Kolay Yapmak İçin Bir ORM Aracı Olan : Entity Framework Core CodeFirst Ve Onun İçerisinde Bulunan Migration Yapısını.
-## 🔖
+## 🔖 Hızlı, Güvenli, Modüler Bir Proje Olması İçin : Asp.Net Core MVC.
+## 🔖 Web Sayfalarının Yeniden Yüklemeden Direkt Olarak Sunucu İle Haberleşerek CRUD İşlemleri Yapmak İçin : AJAX
+## 🔖 API İsteklerini ( GET,POST,PUT,DELETE ) Test Etmek İçin : Swagger Ve Postman
+## Kullandım.
+
+# 🗂 Projem 3 Farklı Amaca Hizmete Etmek İçin Bölümlere Ayrılmıştır. Bu Bölümler;
+## 🔗 Admin Paneli : Admin Rolüne Sahip Olan Kullanıcının; "Hakkımda","Yeteneklerim","Deneyimlerim" Ve "Hizmetlerim" İçin CRUD İşlemleri Yapabilmesini Amaçlayan Sayfadır.
+## 🔗 Kullanıcı Paneli : Kullanıcı Rolüne Sahip Olan Kullanıcıların Hesaplarını Düzenleyip Diğer Kullanıcılar İle Mesajlaşmasını Amaçlayan Sayfadır.
+## 🔗 Ana Sayfa : Burada Bana Ait Bilgilerin Yer Aldığı, Herhangi Bir Kullanıcının Herhangi Bir Login İşlemi Yapmadan Bana Ait Bilgileri Görmesini Amaçlayan Bir Sayfadır.
