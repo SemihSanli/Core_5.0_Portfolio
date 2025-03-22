@@ -59,8 +59,18 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 # 🙍‍♂️ Kullanıcı Paneli
 
 ## 📌 Login Paneli
-### Kullanıcının Giriş Yapması İçin Yönlendirildiği Paneldir. Eğer Giriş Yapmadan Diğer Panellere Erişmeye Çalışırsa Sürekli Login Paneline Yönlendirilecektir. Eğer Daha Önceden Oluşturmuş Olduğu Bir Hesabı Yok İse "Kayıt Ol" Bölümünden Kayıt Ol Sayfasına Yönlendirilebilir.
+### Kullanıcının Giriş Yapması İçin Yönlendirildiği Paneldir. Eğer Giriş Yapmadan Diğer Panellere Erişmeye Çalışırsa Sürekli Login Paneline Yönlendirilecektir. Eğer Daha Önceden Oluşturmuş Olduğu Bir Hesabı Yok İse "Kayıt Ol" Bölümünden Kayıt Ol Sayfasına Yönlendirilebilir.Eğer Kullanıcı Giriş Yaparken Bilgilerini 5 Defa Yanlış Girerse Belirli Bir Süre Giriş Denemesi Yapamaz. Eğer Giriş Başarılı Olursa İlgili Sayfaya Yönlendirilir, Yönlendirilme Sonrasında 100 Dakikalık Bir Süresi Bulunur(Değiştirilebilir). Bu Süre Sonra Oturum Kapanarak Login Sayfasına Tekrar Yönlendirilir.
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/7e54f3f509d9be05463b32762b37c7481dbb3e91/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20163413.png)
 ## 📌 Register Paneli 
-### 
+### Kullanıcı Bu Bölümde Kendine Ait Bilgileri Girerek Bir Hesap Oluşturabilir Fakat Hiçbir Kısmı Boş Bırakamaz.
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/7e54f3f509d9be05463b32762b37c7481dbb3e91/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20163652.png)
+## 📌 Profil Paneli 
+### Giriş Başarı İle Sağlanırsa Kullanıcıyı Profil Paneli Karşılar. Kullanıcı Burada Bilgilerini Güncelleyebilir,Sol Tarafta,Kullanıcının Aralarında Gezinebileceği Bir Panel Bulunmaktadır.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/ec4e38e7ba69fc03b197051dc04d87829fbd474c/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20163822.png)
+## 📌Dashboard Paneli 
+### OpenWeatherMap Üzerinden Anlık Olarak Hava Durumu API'sini Çekerek Ülke Ve İl Bilgisi İle Birlikte Her Gün Otomatik Güncellenen Dinamik Bir Hava Durumu Paneli, Giriş Yapan Kullanıcıya Gelen Mesaj Sayısı,Toplam Kullanıcı Sayısı,Kullanıcının Girmiş Olduğu Toplam Yetenek Sayısı Ve Duyuru Sayısı Gibi İstatistiksel Veriler Bu Panelde Kullanıcı Tarafından Görüntülenir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/62988546244cec9ff604f78c73ddc373809a446e/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-23%20021540.png)
+## 📌Gelen Kutusu Paneli 
+### Diğer Kullanıcılar Tarafından, Login İşlemi Yapmış Olan Kullanıcıya Gönderilen Mesajları Burada Görüntüleyebilir. Mesaj Detayları İle Mesajın Detayını Görüntüleyebilir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/62988546244cec9ff604f78c73ddc373809a446e/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20163830.png)
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/62988546244cec9ff604f78c73ddc373809a446e/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20163931.png)
