@@ -111,7 +111,7 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 
 ## 📌 Deneyimler Paneli
 ### Admin Anasayfada Bulunan "Deneyimlerim" Sayfasındaki Verileri Görüntüleyebilir. Dilerse Bu Bilgileri Siler Ve Günceller
-### Yeni Bir Deneyim Eklemek İsterse, Yeni Yetenek Deneyim Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
+### Yeni Bir Deneyim Eklemek İsterse, Yeni  Deneyim Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164445.png)
 ### Güncelleme Bölümüne Eklenen Verinin ID'sine Göre "Başlık" , "Tarih","Görsel URL" Ve "Açıklama" Bilgileri Otomatik Olarak Gelir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164451.png)
