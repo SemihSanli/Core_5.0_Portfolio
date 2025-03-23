@@ -140,7 +140,7 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164547.png)
 ### Güncelleme Bölümüne Eklenen Verinin ID'sine Göre "Proje Başlığı" , "Görsel1",  " Görsel2"," ProjeUrl","Fiyat","Tamamlanma Oranı","Platform" Bilgileri Otomatik Olarak Gelir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164601.png)
-### Yeni Bir Proje Eklemek İsterse, Yeni Hizmet Ekle Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
+### Yeni Bir Proje Eklemek İsterse, Yeni Proje Ekle Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164615.png)
 
 ## 📌 Yazar-Admin Gelen Mesaj Paneli
