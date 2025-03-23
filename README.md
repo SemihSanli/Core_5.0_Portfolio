@@ -99,16 +99,59 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 ### Üst Tarafta Bulunan "Mesaj" İkonuna Tıklayarak  Tarafına Gönderilmiş Mesajları Görüntüleyebilir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164326.png)
 
-## 📌 Yeteneklerim Paneli
-### Admin Anasayfada Bulunan "Yeteneklerim" Sayfasındaki Verileri Görüntüleyebilir. Dilerse Bu Bilgileri Siler Ve Günceller
-![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164400.png)
-![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164412.png)
-### Yeni Bir Yetenek Eklemek İsterse, Yeni Yetenek Ekle Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
-![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164419.png)
-
+## 📌 Yetenekler Paneli
 ### Admin Anasayfada Bulunan "Yeteneklerim" Sayfasındaki Verileri Görüntüleyebilir. Dilerse Bu Bilgileri Siler Ve Günceller
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164400.png)
 ### Güncelleme Bölümüne Eklenen Verinin ID'sine Göre "Başlık" Ve "Değer" Bilgileri Otomatik Olarak Gelir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164412.png)
 ### Yeni Bir Yetenek Eklemek İsterse, Yeni Yetenek Ekle Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164419.png)
+
+## 📌 Deneyimler Paneli
+### Admin Anasayfada Bulunan "Deneyimlerim" Sayfasındaki Verileri Görüntüleyebilir. Dilerse Bu Bilgileri Siler Ve Günceller
+### Yeni Bir Deneyim Eklemek İsterse, Yeni Yetenek Deneyim Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164445.png)
+### Güncelleme Bölümüne Eklenen Verinin ID'sine Göre "Başlık" , "Tarih","Görsel URL" Ve "Açıklama" Bilgileri Otomatik Olarak Gelir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164451.png)
+## Yeni Bir Deneyim Eklemek İsterse,Yeni Deneyim Ekle Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164741.png)
+## 📌 Sosyal Medya Paneli
+### Admin Anasayfada Bulunan "Öne Çıkanlar" Sayfasındaki Sosyal Medya Verilerini Görüntüleyip, Dilerse Ekleme-Silme-Güncelleme İşlemi Yapabilir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164728.png)
+### Güncelleme Bölümüne Eklenen Verinin ID'sine Göre "Başlık" , "Tarih" Ve "Görsel URL" Bilgileri Otomatik Olarak Gelir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164734.png)
+### Yeni Bir Sosyal Medya Eklemek İsterse, Yeni Sosyal Medya Ekle Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164458.png)
+## 📌 Hizmetler Paneli
+### Admin Anasayfada Bulunan "Hizmetlerim" Sayfasındaki Verileri Görüntüleyebilir. Dilerse Bu Bilgileri Siler Ve Günceller
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164515.png)
+### Güncelleme Bölümüne Eklenen Verinin ID'sine Göre "Başlık" Ve "Görsel Yolu" Bilgileri Otomatik Olarak Gelir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164521.png)
+### Yeni Bir Hizmet Eklemek İsterse, Yeni Hizmet Ekle Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164530.png)
+
+## 📌 Öne Çıkanlar Paneli
+### Admin Anasayfada Bulunan "Öne Çıkanlar" Sayfasındaki Verileri Görüntüleyerek Güncelleyebilir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164540.png)
+## 📌 Projelerim Paneli
+### Admin Anasayfada Bulunan "Portfolyom" Sayfasındaki Verileri Görüntüleyebilir, Dilerse Silme Ve Güncellem Yapabilir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164547.png)
+### Güncelleme Bölümüne Eklenen Verinin ID'sine Göre "Proje Başlığı" , "Görsel1",  " Görsel2"," ProjeUrl","Fiyat","Tamamlanma Oranı","Platform" Bilgileri Otomatik Olarak Gelir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164601.png)
+### Yeni Bir Proje Eklemek İsterse, Yeni Hizmet Ekle Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164615.png)
+
+## 📌 Yazar-Admin Gelen Mesaj Paneli
+### Admin Kendisine Gelen Mesajları Burada Görüntüleyebilir, Mesajın Detaylarını Görüp Dilerse Silebilir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164648.png)
+### "Mesajı Gör" Diyerek Mesaj Detaylarını Görüntüleyebilir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164654.png)
+
+## 📌 Alt İletişim Düzenleme Paneli
+### Admin Kendisine Ait İletişim Bilgilerini Buradan Düzenleyebilir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164719.png)
+
+## 📌 Deneyimler Sayfasına Tekrar Gelelim Fakat Bu Sefer Devreye AJAX Giriyor Olacak
+### Admin, AJAX Kullanarak Tüm Verileri Listeler,Kaydeder,ID İle Getirir,Siler Ve Günceller.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164810.png)
+
