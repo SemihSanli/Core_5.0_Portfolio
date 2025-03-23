@@ -98,7 +98,9 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/9559d2e3c2493cbea8955cb53e8aa4eb8c4c6a6f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164320.png)
 ### Üst Tarafta Bulunan "Mesaj" İkonuna Tıklayarak  Tarafına Gönderilmiş Mesajları Görüntüleyebilir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164326.png)
-
+## 📌 Anasayfadaki Bilgi Paneli
+### Admin Anasayfada Bulunan "Öne Çıkanlar" Sayfasındaki Verileri Görüntüleyebilir, Dilerse Günceller.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/7099ec0d45128c07c89ebc456af7f4b884f75ea9/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164839.png)
 ## 📌 Yetenekler Paneli
 ### Admin Anasayfada Bulunan "Yeteneklerim" Sayfasındaki Verileri Görüntüleyebilir. Dilerse Bu Bilgileri Siler Ve Günceller
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/2f59a9e48c84aa742a3ccdb2075c7f9ed8a8a382/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164400.png)
@@ -130,8 +132,8 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 ### Yeni Bir Hizmet Eklemek İsterse, Yeni Hizmet Ekle Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164530.png)
 
-## 📌 Öne Çıkanlar Paneli
-### Admin Anasayfada Bulunan "Öne Çıkanlar" Sayfasındaki Verileri Görüntüleyerek Güncelleyebilir.
+## 📌 Hakkımda Paneli
+### Admin Anasayfada Bulunan "Hakkımda" Sayfasındaki Verileri Görüntüleyerek Güncelleyebilir.
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164540.png)
 ## 📌 Projelerim Paneli
 ### Admin Anasayfada Bulunan "Portfolyom" Sayfasındaki Verileri Görüntüleyebilir, Dilerse Silme Ve Güncellem Yapabilir.
@@ -151,7 +153,13 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 ### Admin Kendisine Ait İletişim Bilgilerini Buradan Düzenleyebilir.
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164719.png)
 
-## 📌 Deneyimler Sayfasına Tekrar Gelelim Fakat Bu Sefer Devreye AJAX Giriyor Olacak
+## 📌 Deneyimler Paneline Tekrar Gelelim Fakat Bu Sefer Devreye AJAX Giriyor Olacak
 ### Admin, AJAX Kullanarak Tüm Verileri Listeler,Kaydeder,ID İle Getirir,Siler Ve Günceller.
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164810.png)
-
+## 📌 Referans Paneli
+### Admin, Sahip Olduğu Referans Bilgilerini Burada Görüntüleyip Detaylarına Gidip Burada Güncelleme İşlemi Yapabilir Veya Detaylar Kısmına Hiç Gitmeden Silebilir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/7099ec0d45128c07c89ebc456af7f4b884f75ea9/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164823.png)
+### Güncelleme Bölümüne Eklenen Verinin ID'sine Göre "Ad Soyad" , "Şirket",  " Yorum"," ImageUrl","Fiyat","Ünvan" Bilgileri Otomatik Olarak Gelir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/7099ec0d45128c07c89ebc456af7f4b884f75ea9/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164829.png)
+### Yeni Bir Referans Eklemek İsterse, Yeni Referans Ekle Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/7099ec0d45128c07c89ebc456af7f4b884f75ea9/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-22%20025618.png)
