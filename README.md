@@ -120,7 +120,7 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 ## 📌 Sosyal Medya Paneli
 ### Admin Anasayfada Bulunan "Öne Çıkanlar" Sayfasındaki Sosyal Medya Verilerini Görüntüleyip, Dilerse Ekleme-Silme-Güncelleme İşlemi Yapabilir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164728.png)
-### Güncelleme Bölümüne Eklenen Verinin ID'sine Göre "Başlık" , "Tarih" Ve "Görsel URL" Bilgileri Otomatik Olarak Gelir
+### Güncelleme Bölümüne Eklenen Verinin ID'sine Göre "Başlık" , "Link" Ve "Görsel URL" Bilgileri Otomatik Olarak Gelir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164734.png)
 ### Yeni Bir Sosyal Medya Eklemek İsterse, Yeni Sosyal Medya Ekle Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/09ce22f880a542b9be0cc98c20db176d42d2a575/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164458.png)
