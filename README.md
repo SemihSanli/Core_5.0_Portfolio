@@ -163,3 +163,30 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/7099ec0d45128c07c89ebc456af7f4b884f75ea9/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20164829.png)
 ### Yeni Bir Referans Eklemek İsterse, Yeni Referans Ekle Butonuna Tıklayarak İlgili Panele Yönlenerek Ekleme İşlemi Gerçekleştirir
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/7099ec0d45128c07c89ebc456af7f4b884f75ea9/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-22%20025618.png)
+
+
+# 🚨 Peki Olası Bir Hata Durumunda Kullanıcıları Karşılayacak Herhangi Bir Sayfa Yok Mu? Tabi ki Var!
+
+## 🏷️ 404 Sayfası
+### Kullanıcı Eğer Mevcutta Olmayan Bir Sayfaya Ulaşmaya Çalışırsa Bu Sayfa İle Karşılaşır. "Anasayfaya Dön" Diyerek Anasayfaya Yönlendirilir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/79497326dcf4ca41fb76df7a9bbc47cf0231b495/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20170243.png)
+## 🏷️ 401 Sayfası
+### Kullanıcı Eğer Erişim İzni Olmayan Bir Sayfaya Erişmeye Çalışırsa Bu Sayfa İle Karşılaşır."Anasayfaya Dön" Diyerek Anasayfaya Yönlendirilir.
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/79497326dcf4ca41fb76df7a9bbc47cf0231b495/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20170248.png)
+
+
+
+
+# 🧩 Projeden Bağımsız Fakat Bilgilendirici Olan API Bölümü
+## Swagger İle API'ye İstek Atıp;
+
+### Get-Post İşlemi İle Eklem-Listeleme İsteğinin Kontrolü
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/79497326dcf4ca41fb76df7a9bbc47cf0231b495/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20132722.png)
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/79497326dcf4ca41fb76df7a9bbc47cf0231b495/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20132853.png)
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/79497326dcf4ca41fb76df7a9bbc47cf0231b495/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20132902.png)
+### Put İşlemi İle Güncelleme İsteğinin Kontrolü
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/79497326dcf4ca41fb76df7a9bbc47cf0231b495/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20133527.png)
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/79497326dcf4ca41fb76df7a9bbc47cf0231b495/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20133600.png)
+### Delete İşlemi İle Silme İsteğinin Kontrolü
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/79497326dcf4ca41fb76df7a9bbc47cf0231b495/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20133229.png)
+![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/79497326dcf4ca41fb76df7a9bbc47cf0231b495/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20133238.png)
