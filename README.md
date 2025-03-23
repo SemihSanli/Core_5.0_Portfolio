@@ -8,7 +8,7 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 
 # 📋 Peki Projede Kullandığım Teknolojiler Neler?
 
-## 🔖 5 Farklı Katmanı Bulunan  N-Katmanlı Mimari İle Başlayalım;
+## 🔖 Yazdığım Kodun Düzenli Ve Kontrol Edilebilmesi İçin Kullandığım Ve 5 Farklı Katmanı Bulunan  N-Katmanlı Mimari İle Başlayalım;
 ###  🔹 Presentation Layer (Sunum Katmanı) : Kullanıcıya sunulan arayüzü barındırır
 ###  🔹 Business Logic Layer (İş Mantığı Katmanı) : Uygulamanın kurallarını ve iş mantığını barındırır
 ###  🔹 Data Access Layer (Veri Erişim Katmanı) : Veri tabanı ile uygulama arasında bağlantı kurmayı sağlayan katmandır
