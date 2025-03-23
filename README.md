@@ -17,7 +17,7 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 
 ## 🔖 UI(Tasarım) Kısmını Oluşturmak İçin : HTML5-CSS3-JavaScript-BootStrap.
 ## 🔖 Belirli Kurallar İçerisinde CRUD İşlemi Yapmak İçin :  Fluent Validation.
-## 🔖 Authentication (Kimlik Doğrulama) Ve Authorization (Yetkilendirme) İçin:  ASP.Net Core Identity.
+## 🔖 Authentication (Kimlik Doğrulama) Ve Authorization (Yetkilendirme) Rolleme Ve İzinler İçin:  ASP.Net Core Identity.
 ## 🔖 Veritabanı işlemlerini Daha Hızlı,Güvenli Ve Kolay Yapmak İçin Bir ORM Aracı Olan : Entity Framework Core CodeFirst Ve Onun İçerisinde Bulunan Migration Yapısını.
 ## 🔖 Hızlı, Güvenli, Modüler Bir Proje Olması İçin : Asp.Net Core MVC.
 ## 🔖 Web Sayfalarının Yeniden Yüklemeden Direkt Olarak Sunucu İle Haberleşerek CRUD İşlemleri Yapmak İçin : AJAX
@@ -190,3 +190,22 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Udemy üzerinde eğitimlerini 
 ### Delete İşlemi İle Silme İsteğinin Kontrolü
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/79497326dcf4ca41fb76df7a9bbc47cf0231b495/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20133229.png)
 ![ImageAlt](https://github.com/SemihSanli/Core_5.0_Portfolio/blob/79497326dcf4ca41fb76df7a9bbc47cf0231b495/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-21%20133238.png)
+
+
+
+
+
+
+
+# 💰 Son Olarak Projenin Bana Kazandırdığı Çok Şey Oldu Bunlar,
+
+ ## ⭐ Validation Kontrollerini Pekiştirmemi.
+ ## ⭐ N-Katmanlı Mimari Yapısını Pekiştirmemi.
+ ## ⭐ Route Mantığı.
+ ## ⭐ PartialView İle Daha  Temiz Kod Düzeni.
+ ## ⭐ Entity FrameWork Core CodeFirst Yaklaşımı .
+ ## ⭐ Asp.Net Core MVC Yapısı.
+ ## ⭐ Authentication , Authorization Rolleme Ve İzinler Yapısını Kullanmamı Sağlayan ASP.Net Core Identity.
+ ## ⭐ AJAX Kullanımı.
+ ## ⭐ API'ye İstek Gönderimi Ve Swagger-Postman İle Kontrolü
+## Gibi Daha Nice Bilgileri Haneme Katmış Bulunmaktayım.
